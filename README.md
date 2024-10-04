@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with CAP certification.
 - 💬 Ask me about statistics.
 - 📫 How to reach me: deniece.williams@gmail.com
-- ⚡ Fun fact: I have been learning Mandarin Chinese for 17 years and use it in my Bible education work.
+- ⚡ Fun fact: I have been learning Mandarin Chinese for 15+ years and use it in my Bible education work.
