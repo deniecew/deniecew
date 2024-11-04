@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Git & Github
 - 👯 I’m looking to collaborate on survey data research, people analytics
 - 🤔 I’m looking for help with CAP certification.
-- 💬 Ask me about statistics.
+- 💬 Ask me about advanced statistics.
 - 📫 How to reach me: deniece.williams@gmail.com
 - ⚡ Fun fact: I have been learning Mandarin Chinese for 15+ years and use it in my Bible education work.
