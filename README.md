@@ -1,9 +1,7 @@
-### I'm Deniece Williams, a Patient Experience Data Analyst at Moffitt Cancer Center
+### I'm Deniece Williams,
 
-- 🔭 I’m currently working on automating reports in R AND comment sentiment analysis.
-- 🌱 I’m currently learning Git & Github
-- 👯 I’m looking to collaborate on survey data research, people analytics
-- 🤔 I’m looking for help with CAP certification.
-- 💬 Ask me about advanced statistics.
+- 🔭 I’m currently working on key driver reporting, survey comment sentiment analysis, provider level score cards
+- 🌱 I’m currently learning about version control, sentiment analysis, shiny apps
+- 💬 Ask me about statistical analysis
 - 📫 How to reach me: deniece.williams@gmail.com
 - ⚡ Fun fact: I have been learning Mandarin Chinese for 15+ years and use it in my Bible education work.
